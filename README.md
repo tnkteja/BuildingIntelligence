@@ -1,7 +1,7 @@
 # BuildingIntelligence
 
 ## Operational Intelligence
-## 
+## Service Intelligence
 
 [1] talks about CEP and 
 ## References
